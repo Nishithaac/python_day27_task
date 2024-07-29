@@ -1,0 +1,10 @@
+class OrangeHRMLocators:
+    username="username"
+    password="password"
+    submit_button="//button[@type='submit']"
+    url="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    dashboard_url = "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"
+    excel_file="C:\\Users\\pranavi\\PycharmProjects\\DDTF_task\\Data\\testing_data.xlsx"
+    sheet_number="Sheet1"
+    pass_data="Test pass"
+    fail_data="Test failed"
